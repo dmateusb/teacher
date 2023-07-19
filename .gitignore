@@ -1,0 +1,7 @@
+/lib
+/Scripts
+/Include
+/share
+**/__pycache__/**
+pyvenv.cfg
+*.mp3
